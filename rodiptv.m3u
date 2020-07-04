@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,NEWS 24
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1 ,Gazi tv
 http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1 ,Maasranga
@@ -16,9 +18,9 @@ https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 #EXTINF:-1 ,Deepto TV
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1 ,Duronto TV
-https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+http://ctgiptv.kitv.live:1935/live/test/test1/12.ts
 #EXTINF:-1 ,Ekattor TV
-http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
+http://ctgiptv.kitv.live:1935/live/test/test1/11.ts
 #EXTINF:-1 ,NTV
 https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
 #EXTINF:-1 ,Nagorik TV
@@ -62,8 +64,6 @@ https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 #EXTINF:-1 ,Channel 24
 https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1 ,Jamuna TV HD 2
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 #EXTINF:-1 ,Maasranga TV
 https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1 ,Gazi TV
@@ -168,3 +168,5 @@ https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1 ,NAT GEO WILD
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+#EXTINF:-1 , HBO
+http://ctgiptv.kitv.live:1935/live/test/test1/45.ts
