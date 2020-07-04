@@ -18,7 +18,7 @@ https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1 ,Duronto TV
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:-1 ,Ekattor TV
-https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 #EXTINF:-1 ,NTV
 https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
 #EXTINF:-1 ,Nagorik TV
@@ -42,8 +42,12 @@ https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1 ,Independent TV
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+#EXTINF:-1 ,Mohona TV
+https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
+#EXTINF:-1 ,My TV
+https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
 #EXTINF:-1 ,Jamuna TV
-https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+http://103.205.133.19/hls/jamunatv.m3u8
 #EXTINF:-1 ,NTV
 https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
 #EXTINF:-1 ,Nagorik TV
