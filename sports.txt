@@ -1,0 +1,30 @@
+#EXTINF:-1 ,Sony Max
+http://42.98.239.149:9981/stream/channelid/1597286721
+#EXTINF:-1 ,Sony Sab
+http://42.98.239.149:9981/stream/channelid/2076489617
+#EXTINF:-1 ,Sony Six
+http://42.98.239.149:9981/stream/channelid/1559351927
+#EXTINF:-1 ,Sony Ten 1
+http://42.98.239.149:9981/stream/channelid/1382712878
+#EXTINF:-1 ,Sony Ten 2
+http://42.98.239.149:9981/stream/channelid/487833512
+#EXTINF:-1 ,Sony Ten 3
+http://42.98.239.149:9981/stream/channelid/704909020
+#EXTINF:-1 ,IN: SONY MAX
+http://103.205.133.19/hls/sonymax.m3u8
+#EXTINF:-1 ,IN: SONY PIX
+http://103.205.133.19/hls/sonypix.m3u8
+#EXTINF:-1 ,IN: SONY TEN 1
+http://103.205.133.19/hls/ten1.m3u8
+#EXTINF:-1 ,IN: SONY TEN 2
+http://103.205.133.19/hls/ten2.m3u8
+#EXTINF:-1 ,IN: SONY TEN 3
+http://103.205.133.19/hls/ten3.m3u8
+#EXTINF:-1 ,Sony Max 2
+http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
+#EXTINF:-1 ,PTV Sports
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
+#EXTINF:-1 ,Geo Super sports
+https://jk3lz82elw79-hls-live.5centscdn.com/GeoNews/0ce3266d4eb71ad50f7a90aee6d21dcd.sdp/playlist.m3u8
+#EXTINF:-1 ,Sony Ten 1 HD
+https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
