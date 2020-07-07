@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,NEWS 24
-http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 #EXTINF:-1 ,Anando TV
 http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
 #EXTINF:-1 ,Gazi tv
