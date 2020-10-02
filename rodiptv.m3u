@@ -1,19 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 ,G TV
-http://103.197.251.171:8080/hls/gtveuro.m3u8
 
-#EXTINF:-1 ,Massranga TV
-http://103.197.251.171:8080/hls/Massrangaeuro.m3u8
+#EXTINF:-1 ,Channel 9
+http://106.0.54.6:8080/hls/channel9_cm_ip.m3u8
 
-#EXTINF:-1 ,Star Jalsha
-http://tvuk3.technohaat.com:6636/StarJalsha/video.m3u8?token=2-QvSjSlX2
+#EXTINF:-1 ,Channel i
+http://106.0.54.6:8080/hls/channeli_cm_ip.m3u8
 
-#EXTINF:-1 ,Zee Bangla
-http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
-
-#EXTINF:-1 ,Jamuna TV
-http://10.16.100.203:8082/bangla/jamuna_720.m3u8
 
 #EXTINF:-1 ,Jamuna TV
 http://10.16.100.203:8082/bangla/jamuna_720.m3u8
@@ -65,6 +58,12 @@ http://103.102.136.106:8080/cmcltv/livesports.m3u8
 
 #EXTINF:-1 ,Live Sports-02
 http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
+
+#EXTINF:-1 ,Star Jalsha
+http://tvuk3.technohaat.com:6636/StarJalsha/video.m3u8?token=2-QvSjSlX2
+
+#EXTINF:-1 ,Zee Bangla
+http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 
 #EXTINF:-1 ,Zee Bangla
 http://103.102.136.106:8080/cmcltv/tcm_zeebanglacm.m3u8
@@ -174,9 +173,6 @@ http://103.70.140.27:8080/hls/dbcnews_cm_ip.m3u8
 #EXTINF:-1 ,Ekattor.tv
 http://103.70.140.27:8080/hls/ekator_cm_ip.m3u8
 
-#EXTINF:-1 ,Gazi TV (Backup)
-http://103.70.140.27:8080/hls/gtv_cm_ip.m3u8
-
 #EXTINF:-1 ,Independent
 http://103.70.140.27:8080/hls/independent_cm_ip.m3u8
 
@@ -224,12 +220,6 @@ http://103.70.140.27:8080/hls/tcm_zeecinema_cm_ip.m3u8
 
 #EXTINF:-1 ,Al Jazeera
 http://106.0.54.6:8080/hls/al_jazeera_cm_ip.m3u8
-
-#EXTINF:-1 ,Channel 9
-http://106.0.54.6:8080/hls/channel9_cm_ip.m3u8
-
-#EXTINF:-1 ,Channel i
-http://106.0.54.6:8080/hls/channeli_cm_ip.m3u8
 
 #EXTINF:-1 ,Star Sports 1
 http://106.0.54.6:8080/hls/cm_sports02.m3u8
