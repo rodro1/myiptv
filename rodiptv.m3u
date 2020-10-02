@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,Ntv
-https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
-
-#EXTINF:-1 ,Gtv
-http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 
 #EXTINF:-1 ,G TV
 http://103.197.251.171:8080/hls/gtveuro.m3u8
